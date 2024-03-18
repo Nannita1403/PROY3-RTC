@@ -1,0 +1,14 @@
+footer > ul {
+    align-items: center;
+    border-top: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    padding: 20px;
+}
+
+footer > ul li a {
+    color: black;
+    font-weight: 400;
+}

@@ -1,0 +1,16 @@
+input {
+    background-color: rgba(135, 134, 134, 0.398);
+    border-radius: 25px;
+    border: none;
+    flex-grow: 1;
+    padding: 15px 20px;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    input {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
